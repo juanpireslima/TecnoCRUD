@@ -5,10 +5,6 @@ e também listar alguns frameworks utilizados com essa linguagem.
 
 # Tecnologias Utilizadas
 
-*Node.js
-*Express
-*MongoDB
-*Mongoose
-*Body-parser
+Node.js, Express, MongoDB, Mongoose, Body-parser.
 
 Para ver imagens do projeto em funcionamento só ir no meu post no linkedin => https://www.linkedin.com/feed/update/urn:li:activity:6741767989114228736/
